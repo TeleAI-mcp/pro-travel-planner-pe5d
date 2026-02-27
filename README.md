@@ -1,2 +1,3 @@
-# pro-travel-planner-pe5d
+# Pro Travel Planner Pe5D
+
 A repository to test GitHub automation for issue management.
